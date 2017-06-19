@@ -1,0 +1,16 @@
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.exe.config
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.exe
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.pdb
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.csprojResolveAssemblyReference.cache
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.Properties.Resources.resources
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.csproj.GenerateResource.Cache
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.exe
+D:\ШАГ\Project\azure\db\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.pdb
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.exe.config
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.exe
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.pdb
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.exe
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\bin\Debug\ConsoleAppDB.pdb
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.csprojResolveAssemblyReference.cache
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.Properties.Resources.resources
+D:\шаг\Project\ConsoleAppDB\ConsoleAppDB\obj\Debug\ConsoleAppDB.csproj.GenerateResource.Cache
